@@ -25,6 +25,13 @@
   - seconds to keep before and after each moment, and fades between clips;
   - 720p, 1080p or 1440p at 30 or 60 fps;
   - game volume, plus optional background music with its own volume.
+- **Video themes:** one click sets the style and picks the moments:
+  - **Frag movie:** all your kills in order, with slow motion and banners;
+  - **Best plays:** only multi-kills, building up to the best one;
+  - **TikTok / Shorts:** vertical, your best kills, under a minute;
+  - **Clean:** every kill of yours, no effects;
+  - **Describe it (AI):** type what you want and the AI plans the video and writes a title.
+- **AI with Ollama (optional):** [Ollama](https://ollama.com) runs on your own PC, so nothing is uploaded. It reads the killer's name on each kill-feed row, so only your kills are used. The Settings page sets it up with one button.
 - **Fast:** videos are made on your graphics card when it can (NVIDIA, AMD or Intel), and clips you've added before open instantly.
 - **Library:** all your finished highlight videos in one place, so you can play them, show them in their folder, or delete them.
 - **Themes:** the same six themes as the other FragLab apps.
