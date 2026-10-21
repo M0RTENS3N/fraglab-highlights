@@ -10,17 +10,22 @@
 
 ## What it does
 
-- **Drag and drop your recordings:** whole matches, highlight clips, or anything you recorded with OBS, ShadowPlay or similar.
-- **Finds the action for you:**
-  - **gunshots** in the game audio are grouped into bursts and fights;
-  - **kills** are read from the CS2 kill feed (your red-outlined row in the top-right corner).
-- **Scored moments:** every fight gets a score from its kills, bursts and shots. You see them on a sound timeline for each clip, can preview any moment, and pick or unpick it.
+- **Browse your recordings:** pick clips straight from your ShadowPlay, OBS or Medal folder, or drag and drop any video.
+- **Finds your kills:**
+  - reads the CS2 kill feed, so it knows when **you** got a kill, a **2K**, **3K**, **4K** or an **ACE**;
+  - your deaths and the kills of teammates you were spectating are left out;
+  - gunshots in the game audio find the rest of the fights.
+- **Scored moments:** multi-kills score highest. Each clip shows a timeline with your kills marked, and you can preview any moment and pick or unpick it.
 - **Choose your style:**
-  - length: **Tight**, **Balanced** or **Everything**;
-  - seconds to keep before and after each moment;
-  - fades between clips;
+  - length: **Tight** (multi-kills only), **Balanced** (every kill of yours) or **Everything**;
+  - **slow motion** on the last kill, **2K / 3K / ACE banners**, and your video's name as a title;
+  - order: as played, or **best last** so the video builds up to your biggest play;
+  - **widescreen** for YouTube or **vertical 9:16** for TikTok, Shorts and Reels;
+  - 4:3 recordings with black bars or **stretched** to fill the screen;
+  - seconds to keep before and after each moment, and fades between clips;
   - 720p, 1080p or 1440p at 30 or 60 fps;
   - game volume, plus optional background music with its own volume.
+- **Fast:** videos are made on your graphics card when it can (NVIDIA, AMD or Intel), and clips you've added before open instantly.
 - **Library:** all your finished highlight videos in one place, so you can play them, show them in their folder, or delete them.
 - **Themes:** the same six themes as the other FragLab apps.
 
