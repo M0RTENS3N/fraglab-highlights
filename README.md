@@ -1,4 +1,4 @@
-﻿<p align="center"><img src="assets/icon.png" width="112" alt="FragLab Highlights"></p>
+<p align="center"><img src="assets/icon.png" width="112" alt="FragLab Highlights"></p>
 
 <h1 align="center">FragLab Highlights</h1>
 
@@ -32,6 +32,7 @@
   - **Clean:** every kill of yours, no effects;
   - **Describe it (AI):** type what you want and the AI plans the video and writes a title.
 - **AI with Ollama (optional):** [Ollama](https://ollama.com) runs on your own PC, so nothing is uploaded. It reads the killer's name on each kill-feed row, so only your kills are used. The Settings page sets it up with one button.
+- **Polished:** a startup animation, smooth page changes and animations that turn off when Windows reduce-motion is on.
 - **Fast:** videos are made on your graphics card when it can (NVIDIA, AMD or Intel), and clips you've added before open instantly.
 - **Library:** all your finished highlight videos in one place, so you can play them, show them in their folder, or delete them.
 - **Themes:** the same six themes as the other FragLab apps.
