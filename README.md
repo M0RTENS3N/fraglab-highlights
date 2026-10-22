@@ -32,7 +32,7 @@
   - **Clean:** every kill of yours, no effects;
   - **Describe it (AI):** type what you want and the AI plans the video and writes a title.
 - **AI with Ollama (optional):** [Ollama](https://ollama.com) runs on your own PC, so nothing is uploaded. It reads the killer's name on each kill-feed row, so only your kills are used. The Settings page sets it up with one button.
-- **Match to the beat:** pick a song and each clip's first kill lands on a beat of the music, with the song's tempo shown in Settings.
+- **Match to the beat:** pick a song and every kill and every cut lands on a beat, and the song starts so its drop hits your best play.
 - **Plan with rules:** 'Describe it' turns your words into rules you can see and change (fast kills, no deaths, length, order, format), so the same request always gives the same video.
 - **Polished:** a startup animation, smooth page changes and animations that turn off when Windows reduce-motion is on.
 - **Fast:** videos are made on your graphics card when it can (NVIDIA, AMD or Intel), and clips you've added before open instantly.
