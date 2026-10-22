@@ -34,7 +34,9 @@
 - **AI with Ollama (optional):** [Ollama](https://ollama.com) runs on your own PC, so nothing is uploaded. It reads the killer's name on each kill-feed row, so only your kills are used. The Settings page sets it up with one button.
 - **Music that fits:** a playlist of your own songs or built-in beats (Hype, Phonk, Chill, made by the app and free to use). Songs blend on the beat with no silence, every kill and cut can land on a beat, and the video can end with the music.
 - **Plan with rules:** 'Describe it' turns your words into rules you can see and change (fast kills, no deaths, length, order, format), so the same request always gives the same video.
-- **Polished:** a startup animation, smooth page changes and animations that turn off when Windows reduce-motion is on.
+- **Quick setup:** the first start gets every name from your Steam account (so kills under old names count too), installs the AI with one button and finds your recordings.
+- **Intro and outro:** a title card over your best play and a thanks-for-watching end card, and the video fades in and out instead of cutting. Multi-kills get DOUBLE KILL / TRIPLE KILL / QUAD KILL / ACE banners that slide in.
+- **Polished:** the FragLab startup animation, smooth page changes, and animations that turn off when Windows reduce-motion is on.
 - **Fast:** videos are made on your graphics card when it can (NVIDIA, AMD or Intel), and clips you've added before open instantly.
 - **Library:** all your finished highlight videos in one place, so you can play them, show them in their folder, or delete them.
 - **Themes:** the same six themes as the other FragLab apps.
