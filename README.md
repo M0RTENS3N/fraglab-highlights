@@ -10,7 +10,7 @@
 
 ## What it does
 
-- **Browse your recordings:** pick clips straight from your ShadowPlay, OBS or Medal folder, or drag and drop any video.
+- **Step by step:** 1 Clips, 2 Theme, 3 Music, 4 Make. Your recordings show up as a picture grid with your kills marked; click to add them, or drag and drop any video.
 - **Finds your kills:**
   - reads the CS2 kill feed, so it knows when **you** got a kill, a **2K**, **3K**, **4K** or an **ACE**;
   - your deaths and the kills of teammates you were spectating are left out;
@@ -32,7 +32,7 @@
   - **Clean:** every kill of yours, no effects;
   - **Describe it (AI):** type what you want and the AI plans the video and writes a title.
 - **AI with Ollama (optional):** [Ollama](https://ollama.com) runs on your own PC, so nothing is uploaded. It reads the killer's name on each kill-feed row, so only your kills are used. The Settings page sets it up with one button.
-- **Match to the beat:** pick a song and every kill and every cut lands on a beat, and the song starts so its drop hits your best play.
+- **Music that fits:** a playlist of your own songs or built-in beats (Hype, Phonk, Chill, made by the app and free to use). Songs blend on the beat with no silence, every kill and cut can land on a beat, and the video can end with the music.
 - **Plan with rules:** 'Describe it' turns your words into rules you can see and change (fast kills, no deaths, length, order, format), so the same request always gives the same video.
 - **Polished:** a startup animation, smooth page changes and animations that turn off when Windows reduce-motion is on.
 - **Fast:** videos are made on your graphics card when it can (NVIDIA, AMD or Intel), and clips you've added before open instantly.
