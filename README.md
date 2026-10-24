@@ -35,8 +35,9 @@
 - **Music that fits:** a playlist of your own songs, songs from a YouTube link, or built-in beats (Hype, Phonk, Chill, made by the app and free to use). Songs blend on the beat with no silence, every kill and cut can land on a beat, and the video can end with the music.
 - **Plan with rules:** 'Describe it' turns your words into rules you can see and change (fast kills, no deaths, length, order, format), so the same request always gives the same video.
 - **Quick setup:** the first start gets every name from your Steam account (so kills under old names count too), installs the AI with one button and finds your recordings.
-- **Intro, outro and banners:** each in its own place with a picture of every design. Intros: centred, cinematic or minimal; outros: thanks, GG, minimal or a fade. Multi-kill banners (slanted, stamp, pill, corner tag, or simple kill lines) stay up and count on with every kill.
+- **Intro, outro and banners:** each in its own place with a picture of every design. Intros: centred, cinematic or minimal; outros: thanks, GG, minimal or a fade. Multi-kill banners (slanted, stamp, pill, corner tag, or just a slanted line per kill) stay up and count on with every kill.
 - **Demo Studio:** pick a CS2 demo and FragLab finds your kills. CS2 then plays them in first person, third person or through the enemy's eyes, with only the kill feed, no HUD or the full HUD. OBS records every kill automatically (FragLab installs and sets it up), or you record it yourself, and the clips go straight into your highlight.
+- **Team montage:** the Demo Studio can also record the kills of everyone on your side, each through their own eyes and in match order, with each player's name shown in the video.
 - **Slow motion your way:** on the last kill, every kill, only one-taps, only sprays or only no-scopes.
 - **Timeline editor (PRO):** see the moments lined up like in a video editor; reorder, trim or take some out, then make the video again.
 - **Polished:** the FragLab startup animation, smooth page changes, and animations that turn off when Windows reduce-motion is on.
