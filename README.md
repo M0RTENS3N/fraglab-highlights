@@ -26,6 +26,7 @@
   - 720p, 1080p or 1440p at 30 or 60 fps;
   - game volume, plus optional background music with its own volume.
 - **Themes:** Cyberpunk (neon, scanlines, a glitch on every kill), VHS, Noir and Sunset put a look over the whole video, with matching banner colours.
+- **Kill on every beat:** a music mode where every kill lands on its own beat; clips speed up between kills and sprays stretch over several beats.
 - **Genres:** one click sets the style and picks the moments:
   - **Frag movie:** all your kills in order, with slow motion and banners;
   - **Best plays:** only multi-kills, building up to the best one;
