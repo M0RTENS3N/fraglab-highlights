@@ -36,7 +36,8 @@
 - **Plan with rules:** 'Describe it' turns your words into rules you can see and change (fast kills, no deaths, length, order, format), so the same request always gives the same video.
 - **Quick setup:** the first start gets every name from your Steam account (so kills under old names count too), installs the AI with one button and finds your recordings.
 - **Intro, outro and banners:** each in its own place with a picture of every design. Intros: centred, cinematic or minimal; outros: thanks, GG, minimal or a fade. Multi-kill banners (slanted, stamp, pill, corner tag, or simple kill lines) stay up and count on with every kill.
-- **Slow motion your way:** on the last kill, every kill, only one-taps or only sprays.
+- **Demo Studio:** pick a CS2 demo and FragLab finds your kills. CS2 then plays them in first person, third person or through the enemy's eyes, with only the kill feed, no HUD or the full HUD. OBS records every kill automatically (FragLab installs and sets it up), or you record it yourself, and the clips go straight into your highlight.
+- **Slow motion your way:** on the last kill, every kill, only one-taps, only sprays or only no-scopes.
 - **Timeline editor (PRO):** see the moments lined up like in a video editor; reorder, trim or take some out, then make the video again.
 - **Polished:** the FragLab startup animation, smooth page changes, and animations that turn off when Windows reduce-motion is on.
 - **Fast:** videos are made on your graphics card when it can (NVIDIA, AMD or Intel), and clips you've added before open instantly.
