@@ -10,7 +10,7 @@
 
 ## What it does
 
-- **Step by step:** 1 Clips, 2 Theme, 3 Music, 4 Make. Your recordings show up as a picture grid with your kills marked; click to add them (Shift-click or "Pick all shown" for many at once), or drag and drop any video.
+- **Step by step:** 1 Song, 2 Clips, 3 Genre, 4 Theme, 5 Create, with a hint on every step and the fine-tuning under More options. Your recordings show up as a picture grid with your kills marked; click to add them (Shift-click or "Pick all shown" for many at once), or drag and drop any video.
 - **Finds your kills:**
   - reads the CS2 kill feed, so it knows when **you** got a kill, a **2K**, **3K**, **4K** or an **ACE**;
   - your deaths and the kills of teammates you were spectating are left out;
