@@ -45,7 +45,7 @@
 - **Team montage:** the Demo Studio can also record the kills of everyone on your side, over one or more matches, each through their own eyes and in match order, with each player's name shown in the video.
 - **Slow motion your way:** on the last kill, every kill, only one-taps, only sprays or only no-scopes.
 - **Timeline editor (PRO):** see the moments lined up like in a video editor; reorder, trim or take some out, then make the video again.
-- **Polished:** the FragLab startup animation, smooth page changes, and animations that turn off when Windows reduce-motion is on.
+- **Polished:** a clean, modern look with a progress track through the steps, big clear choices and a floating bar to move on; the FragLab startup animation, smooth page changes, and animations that turn off when Windows reduce-motion is on.
 - **Fast:** videos are made on your graphics card when it can (NVIDIA, AMD or Intel), and clips you've added before open instantly.
 - **Library:** all your finished highlight videos in one place, so you can play them, show them in their folder, or delete them.
 - **Themes:** the same six themes as the other FragLab apps.
