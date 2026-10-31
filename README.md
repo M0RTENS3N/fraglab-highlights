@@ -44,6 +44,7 @@
 - **Clean up:** demo clips and FACEIT demos go to the Recycle Bin after two weeks, or with one click in Settings.
 - **Team montage:** the Demo Studio can also record the kills of everyone on your side, over one or more matches, each through their own eyes and in match order, with each player's name shown in the video.
 - **Slow motion your way:** on the last kill, every kill, only one-taps, only sprays or only no-scopes.
+- **Editor:** a Premiere-style editor inside the app: media bin, program monitor, effect controls and a timeline with two video tracks, two audio tracks and titles. Move, trim and razor clips with snapping and undo, change speed, sound, size, position, colour and fades, add titles, and export to your Library.
 - **Timeline editor (PRO):** see the moments lined up like in a video editor; reorder, trim or take some out, then make the video again.
 - **Polished:** a clean, modern look with a progress track through the steps, big clear choices and a floating bar to move on; the FragLab startup animation, smooth page changes, and animations that turn off when Windows reduce-motion is on.
 - **Fast:** videos are made on your graphics card when it can (NVIDIA, AMD or Intel), and clips you've added before open instantly.
